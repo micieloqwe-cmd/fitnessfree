@@ -65,7 +65,7 @@
 </tr>
 
 <tr>
-<td><img src="https://github.com/user-attachments/assets/8c37a3d7-be1d-400f-b615-89f8f0f9763f" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/Screenshot 2026-04-11 115449" width="100%"/></td>
 <td><img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/></td>
 <td><img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/></td>
 </tr>
