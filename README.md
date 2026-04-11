@@ -31,40 +31,13 @@
 
 <br><br>
 
-<div align="center">
-  <p style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 3.5em; font-weight: 900; letter-spacing: -0.05em; margin-bottom: 0;">
-    <span style="background: linear-gradient(180deg, #FFD700 0%, #FFFFFF 50%, #FFD700 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.5));">
-      💎 ELEV8
-    </span>
-  </p>
-  
-  <p style="font-family: 'Segoe UI', sans-serif; font-size: 1.2em; font-weight: 300; letter-spacing: 0.5em; color: #C0C0C0; text-transform: uppercase; margin-top: -10px; opacity: 0.8;">
-    THE ULTIMATE FITNESS ECOSYSTEM
-  </p>
+# 💎 ELEV8 - Premium Fitness Management Ecosystem
 
-  <br><br>
-
-  <p style="font-family: 'Georgia', serif; font-size: 2.2em; font-weight: 800; letter-spacing: 0.15em; color: #FFD700; text-shadow: 0 0 15px rgba(255, 215, 0, 0.6), 0 0 30px rgba(255, 215, 0, 0.4); text-transform: uppercase; margin-bottom: 0;">
-    "REDEDINING STRENGTH"
-  </p>
-  
-  <p style="font-family: 'Krub', sans-serif; font-size: 1.3em; font-style: italic; font-weight: 200; color: #FFFFFF; letter-spacing: 0.1em; opacity: 0.7;">
-    ( นิยามใหม่ของความแข็งแกร่ง )
-  </p>
-
-  <br><br>
-  <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 215, 0, 0.75), rgba(0, 0, 0, 0)); width: 60%;">
-  <br>
-
-  <p style="font-family: 'Courier New', Courier, monospace; font-size: 1em; color: #555; letter-spacing: 0.1em;">
-    CRAFTED FOR EXCELLENCE  •  EST. 2026
-  </p>
-  
-  <p style="font-family: 'Segoe UI', sans-serif; font-size: 1.5em; font-weight: 700; color: #FFF; text-shadow: 0 0 10px #FFF;">
-    READY TO <span style="color: #FFD700; font-weight: 900; text-shadow: 0 0 15px #FFD700;">ELEV8</span>? ⭐
-  </p>
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/INTERFACE-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TECH_STACK-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 ---
 
 ## 📱 USER EXPERIENCE (UX)
