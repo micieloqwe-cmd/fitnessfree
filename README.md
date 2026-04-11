@@ -40,12 +40,12 @@
 ---
 
 ## 📱 USER EXPERIENCE (UX)
-> **"Elevate Your Strength, Redefine Your Limits"** – สัมผัสประสบการณ์การดูแลสุขภาพที่เหนือระดับด้วยอินเทอร์เฟซ Dark Gold ที่หรูหราที่สุด
+> **"Elevate Your Strength, Redefine Your Limits"** – สัมผัสประสบการณ์ที่เหนือระดับด้วยอินเทอร์เฟซ Dark Gold ที่หรูหราที่สุด
 
 ### 🔓 01. ACCESS & ANALYTICS
 | **SYSTEM ACCESS** | **MEMBER DASHBOARD** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" width="100%" style="border-radius:15px; border: 2px solid #FFD700; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"/> | <img src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2bf9-a47b-bcd8-e347979c5364" width="100%" style="border-radius:15px; border: 2px solid #FFD700;"/> |
+| <img src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" width="100%" style="border-radius:15px; border: 2px solid #FFD700; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"/> | <img src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2abf0ad8da8f" width="100%" style="border-radius:15px; border: 2px solid #FFD700;"/> |
 | ✨ **Exclusive Login** | 📊 **Real-time Performance Metrics** |
 
 <br>
@@ -100,6 +100,13 @@
 | 🎯 **Engagement Strategy** | 💎 **Prestige System Manager** |
 
 ---
+
+<p align="center">
+  <br>
+  <b>"ELEV8 - Elevate Your Strength, Redefine Your Limits"</b>
+  <br>
+  <i>Crafted with passion for the ultimate fitness elite.</i>
+</p>
 
 ## 🚀 PLATFORM ARCHITECTURE & CAPABILITIES
 * 💎 **Ultra-Premium UI:** มอบความรู้สึกหรูหรา น่าใช้งาน ทันสมัยทุกตารางพิกเซล
