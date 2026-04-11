@@ -46,45 +46,47 @@
 ```
 FITNESS_ELEV8/
 └── fitness/
-    ├── api/
-    │   ├── favorites.php
-    │   └── logout.php
+    ├── index.php                    ← จุดเริ่มต้นของเว็บ (Entry point / redirect ไปหน้าอื่น)
     │
-    ├── assets/
-    │   ├── css/
-    │   ├── images/
-    │   └── js/
+    ├── login.php                    ← หน้าเข้าสู่ระบบของผู้ใช้
+    ├── register.php                 ← หน้าสมัครสมาชิกใหม่
     │
-    ├── includes/
-    │   ├── auth.php
-    │   ├── config.php
-    │   ├── db.php
-    │   ├── footer.php
-    │   └── header.php
+    ├── api/                         ← ส่วนจัดการหลังบ้าน (API / AJAX)
+    │   ├── favorites.php            ← จัดการระบบรายการโปรด (เพิ่ม/ลบ)
+    │   └── logout.php               ← ออกจากระบบ (ลบ session)
     │
-    ├── pages/
-    │   ├── admin/
-    │   │   ├── badges.php
-    │   │   ├── challenges.php
-    │   │   ├── dashboard.php
-    │   │   ├── exercises.php
-    │   │   ├── programs.php
-    │   │   └── users.php
+    ├── assets/                      ← ไฟล์ static ทั้งหมด (หน้าบ้าน)
+    │   ├── css/                     ← ไฟล์ตกแต่งหน้าเว็บ (CSS)
+    │   ├── images/                  ← รูปภาพ เช่น รูปโปรไฟล์ / รูป exercise
+    │   └── js/                      ← JavaScript (interaction / fetch API)
+    │
+    ├── includes/                    ← ไฟล์ที่เรียกใช้ซ้ำ (Reusable)
+    │   ├── config.php               ← ตั้งค่าระบบ เช่น DB_HOST, DB_NAME
+    │   ├── db.php                   ← เชื่อมต่อฐานข้อมูล (PDO)
+    │   ├── auth.php                 ← ฟังก์ชันตรวจสอบ login / session
+    │   ├── header.php               ← ส่วนหัวเว็บ (navbar + <head>)
+    │   └── footer.php               ← ส่วนท้ายเว็บ (footer + script)
+    │
+    ├── pages/                       ← หน้าแสดงผลของระบบ
+    │   ├── admin/                   ← หน้าสำหรับผู้ดูแลระบบ (Admin)
+    │   │   ├── dashboard.php        ← หน้าแดชบอร์ด (ภาพรวมระบบ)
+    │   │   ├── users.php            ← จัดการผู้ใช้งาน
+    │   │   ├── exercises.php        ← จัดการท่าออกกำลังกาย
+    │   │   ├── programs.php         ← จัดการโปรแกรมออกกำลังกาย
+    │   │   ├── challenges.php       ← จัดการชาเลนจ์
+    │   │   └── badges.php           ← จัดการเหรียญรางวัล
     │   │
-    │   └── user/
-    │       ├── body_stats.php
-    │       ├── challenges.php
-    │       ├── dashboard.php
-    │       ├── exercises.php
-    │       ├── notifications.php
-    │       ├── profile.php
-    │       ├── program_detail.php
-    │       └── programs.php
+    │   └── user/                    ← หน้าสำหรับผู้ใช้งานทั่วไป
+    │       ├── dashboard.php        ← หน้าแดชบอร์ดผู้ใช้
+    │       ├── profile.php          ← ข้อมูลโปรไฟล์ผู้ใช้
+    │       ├── body_stats.php       ← ข้อมูลร่างกาย (น้ำหนัก / ส่วนสูง)
+    │       ├── exercises.php        ← รายการท่าออกกำลังกาย
+    │       ├── programs.php         ← โปรแกรมออกกำลังกาย
+    │       ├── program_detail.php   ← รายละเอียดโปรแกรม
+    │       ├── challenges.php       ← ชาเลนจ์ของผู้ใช้
+    │       └── notifications.php    ← การแจ้งเตือน
     │
-    ├── login.php
-    ├── register.php
-    ├── index.php
-    └── README.md
+    └── README.md                    ← อธิบายโปรเจกต์ วิธีติดตั้ง และใช้งาน
 ```
 
 ### 🔹 includes/
