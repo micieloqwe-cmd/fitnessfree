@@ -39,73 +39,21 @@
 
 ---
 
-## 📱 User Interface Experience (ประสบการณ์ผู้ใช้งาน)
-ดีไซน์หรูหราสไตล์ Modern Dark Gold พร้อมฟังก์ชันที่ครบถ้วนสำหรับสมาชิก
+##  User 
+<img width="1912" height="968" alt="Screenshot 2026-04-11 115356" src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" />
+<img width="1918" height="970" alt="Screenshot 2026-04-11 115436" src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2abf0ad8da8f" />
+<img width="1919" height="968" alt="Screenshot 2026-04-11 115443" src="https://github.com/user-attachments/assets/40d7b958-6d93-4cae-a565-1dc1b31ad4fe" />
+<img width="1919" height="968" alt="Screenshot 2026-04-11 115449" src="https://github.com/user-attachments/assets/c9663ea0-d2e7-46e4-b251-33802de8f6b7" />
+<img width="1919" height="968" alt="Screenshot 2026-04-11 115455" src="https://github.com/user-attachments/assets/e764fffe-411b-4d4f-a154-8e26a0d897e0" />
+<img width="1919" height="970" alt="Screenshot 2026-04-11 115502" src="https://github.com/user-attachments/assets/2e1380f6-a962-46cf-987b-7b45dbfb7754" />
+<img width="1919" height="967" alt="Screenshot 2026-04-11 115511" src="https://github.com/user-attachments/assets/b109fcfa-648d-454e-8f12-ebe981b5fbe5" />
+<img width="1919" height="966" alt="Screenshot 2026-04-11 115541" src="https://github.com/user-attachments/assets/ebafae82-4ff6-4398-a498-69b3c4b6d9b4" />
 
-### 🔐 ระบบเข้าสู่ระบบและหน้าหลัก (Authentication & Dashboard)
-| **Login Access** | **User Dashboard** | **Notifications** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
-| หน้าจอ Login สุดพรีเมียม | หน้าสรุปสถิติของคุณ **PLAPLA** | ศูนย์แจ้งเตือนกิจกรรม |
 
-<br>
 
-### 🏋️ โปรแกรมและการฝึกซ้อม (Training & Programs)
-| **Training Programs** | **Exercise Library** | **Exercise Details** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/> | <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> |
-| เลือกแผนการฝึกซ้อม | คลังท่าออกกำลังกาย | รายละเอียดและวิธีฝึก |
+##  Admin 
 
-<br>
 
-### 📈 สถิติและการติดตามผล (Stats & Progress)
-| **Fitness Challenges** | **Weight Progress** | **User Profile** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/71bb89de-4a87-4676-b533-a353d83ed2d8" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> | <img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/> |
-| ภารกิจท้าทายความสามารถ | กราฟติดตามน้ำหนักตัว | จัดการข้อมูลส่วนตัว |
-
----
-
-## 🛠️ Admin Control Panel (ระบบหลังบ้าน)
-ส่วนการจัดการสำหรับผู้ดูแลระบบ เพื่อควบคุมเนื้อหาและสมาชิกทั้งหมด
-
-| **Admin Dashboard** |
-| :---: |
-| <img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/> |
-| **สถิติรวมของแพลตฟอร์ม:** สรุปจำนวนสมาชิก ท่าออกกำลังกาย และโปรแกรมการฝึกทั้งหมด |
-
----
-
-## 🛠️ Advanced Admin Control Panel
-ระบบหลังบ้านสำหรับผู้ดูแลเพื่อควบคุมเนื้อหาและจัดการสมาชิกทั้งหมดในที่เดียว
-
-### 📊 Platform Overview
-| **Admin Dashboard** | **User Management** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/> | <img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/> |
-| สรุปยอดรวม: **1 Users, 10 Exercises, 4 Programs** พร้อมสถิติท่าที่ถูกใช้งานบ่อยที่สุด | รายชื่อสมาชิกทั้งหมด (Admin & PLAPLA) พร้อมฟีเจอร์จัดการสถานะและลบผู้ใช้ |
-
----
-
-## ⚡ Key Technical Features
-* **Secure Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย
-* **Interactive Dashboard:** แสดงผลสถิติแบบ Real-time ตามความคืบหน้าของผู้ใช้
-* **Body Progress Tracking:** ระบบบันทึกน้ำหนักและสัดส่วนพร้อมการแสดงผลด้วยกราฟ
-* **Challenge System:** เพิ่มความสนุกด้วยระบบภารกิจและ EXP Points
-* **Full CRUD Admin:** ผู้ดูแลระบบสามารถเพิ่ม/ลบ/แก้ไข ข้อมูลท่าออกกำลังกายและผู้ใช้งานได้โดยตรง
-
-<p align="center"><b>Built with Strength. Designed for Excellence.</b></p>
-
-## ⚡ Key Technical Features
-* **Secure Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย
-* **Interactive Dashboard:** แสดงผลสถิติแบบ Real-time ตามความคืบหน้าของผู้ใช้
-* **Body Progress Tracking:** ระบบบันทึกน้ำหนักและสัดส่วนพร้อมการแสดงผลด้วยกราฟ
-* **Challenge System:** เพิ่มความสนุกด้วยระบบภารกิจและ EXP Points
-* **Full CRUD Admin:** ผู้ดูแลระบบสามารถเพิ่ม/ลบ/แก้ไข ข้อมูลท่าออกกำลังกายและผู้ใช้งานได้โดยตรง
-
-<p align="center"><b>Built with Strength. Designed for Excellence.</b></p>
-
----
 
 ---
 
