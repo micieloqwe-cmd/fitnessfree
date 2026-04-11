@@ -113,14 +113,7 @@
 * 📈 **Advanced Analytics:** ติดตามและวิเคราะห์ข้อมูลร่างกายด้วย Data Visualization ที่แม่นยำ
 * 🕹️ **Complete Gamification:** ระบบ EXP, Challenges และ Badges ที่ทำให้ผู้ใช้เสพติดการออกกำลังกาย
 * ⚡ **High-Speed Management:** ระบบ Admin ที่ออกแบบมาให้จัดการข้อมูลจำนวนมากได้อย่างรวดเร็ว
-
-<p align="center">
-  <br>
-  <b>"ELEV8 - Elevate Your Strength, Redefine Your Limits"</b>
-  <br>
-  <i>Crafted with passion for the ultimate fitness elite.</i>
-</p>
-
+* 
 ---
 
 ## 🎯 Key Features
@@ -172,49 +165,52 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 โครงสร้างไฟล์
 
 ```
 FITNESS_ELEV8/
 └── fitness/
-    ├── 📄 index.php                   ← Entry point
-    ├── 📄 login.php                   ← Sign in
-    ├── 📄 register.php                ← Sign up
+    ├── index.php                    ← จุดเริ่มต้นของเว็บ (Entry point / redirect ไปหน้าอื่น)
     │
-    ├── 📂 api/
-    │   ├── favorites.php              ← AJAX favorites toggle
-    │   └── logout.php                 ← Session destroy
+    ├── login.php                    ← หน้าเข้าสู่ระบบของผู้ใช้
+    ├── register.php                 ← หน้าสมัครสมาชิกใหม่
     │
-    ├── 📂 assets/
-    │   ├── css/                       ← Stylesheets
-    │   ├── images/                    ← Uploads & assets
-    │   └── js/                        ← Client-side scripts
+    ├── api/                         ← ส่วนจัดการหลังบ้าน (API / AJAX)
+    │   ├── favorites.php            ← จัดการระบบรายการโปรด (เพิ่ม/ลบ)
+    │   └── logout.php               ← ออกจากระบบ (ลบ session)
     │
-    ├── 📂 includes/
-    │   ├── config.php                 ← App configuration
-    │   ├── db.php                     ← PDO connection
-    │   ├── auth.php                   ← Session & guards
-    │   ├── header.php                 ← Navbar + head
-    │   └── footer.php                 ← Footer + scripts
+    ├── assets/                      ← ไฟล์ static ทั้งหมด (หน้าบ้าน)
+    │   ├── css/                     ← ไฟล์ตกแต่งหน้าเว็บ (CSS)
+    │   ├── images/                  ← รูปภาพ เช่น รูปโปรไฟล์ / รูป exercise
+    │   └── js/                      ← JavaScript (interaction / fetch API)
     │
-    └── 📂 pages/
-        ├── 📂 admin/
-        │   ├── dashboard.php          ← Platform overview
-        │   ├── users.php              ← Manage users
-        │   ├── exercises.php          ← Manage exercises
-        │   ├── programs.php           ← Manage programs
-        │   ├── challenges.php         ← Manage challenges
-        │   └── badges.php             ← Manage badges
-        │
-        └── 📂 user/
-            ├── dashboard.php          ← User home
-            ├── profile.php            ← Profile settings
-            ├── body_stats.php         ← Body tracking
-            ├── exercises.php          ← Exercise library
-            ├── programs.php           ← Browse programs
-            ├── program_detail.php     ← Program detail
-            ├── challenges.php         ← Active challenges
-            └── notifications.php     ← Alerts
+    ├── includes/                    ← ไฟล์ที่เรียกใช้ซ้ำ (Reusable)
+    │   ├── config.php               ← ตั้งค่าระบบ เช่น DB_HOST, DB_NAME
+    │   ├── db.php                   ← เชื่อมต่อฐานข้อมูล (PDO)
+    │   ├── auth.php                 ← ฟังก์ชันตรวจสอบ login / session
+    │   ├── header.php               ← ส่วนหัวเว็บ (navbar + <head>)
+    │   └── footer.php               ← ส่วนท้ายเว็บ (footer + script)
+    │
+    ├── pages/                       ← หน้าแสดงผลของระบบ
+    │   ├── admin/                   ← หน้าสำหรับผู้ดูแลระบบ (Admin)
+    │   │   ├── dashboard.php        ← หน้าแดชบอร์ด (ภาพรวมระบบ)
+    │   │   ├── users.php            ← จัดการผู้ใช้งาน
+    │   │   ├── exercises.php        ← จัดการท่าออกกำลังกาย
+    │   │   ├── programs.php         ← จัดการโปรแกรมออกกำลังกาย
+    │   │   ├── challenges.php       ← จัดการชาเลนจ์
+    │   │   └── badges.php           ← จัดการเหรียญรางวัล
+    │   │
+    │   └── user/                    ← หน้าสำหรับผู้ใช้งานทั่วไป
+    │       ├── dashboard.php        ← หน้าแดชบอร์ดผู้ใช้
+    │       ├── profile.php          ← ข้อมูลโปรไฟล์ผู้ใช้
+    │       ├── body_stats.php       ← ข้อมูลร่างกาย (น้ำหนัก / ส่วนสูง)
+    │       ├── exercises.php        ← รายการท่าออกกำลังกาย
+    │       ├── programs.php         ← โปรแกรมออกกำลังกาย
+    │       ├── program_detail.php   ← รายละเอียดโปรแกรม
+    │       ├── challenges.php       ← ชาเลนจ์ของผู้ใช้
+    │       └── notifications.php    ← การแจ้งเตือน
+    │
+    └── README.md                    ← อธิบายโปรเจกต์ วิธีติดตั้ง และใช้งาน
 ```
 
 ---
