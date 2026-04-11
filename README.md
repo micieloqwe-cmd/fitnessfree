@@ -29,55 +29,90 @@
 
 ---
 
-# 💎 ELEV8 - Premium Fitness Management System
+# 💎 ELEV8 - THE ULTIMATE FITNESS ECOSYSTEM
 
 <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/UI_DESIGN-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TECH_STACK-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INTERFACE-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DEVELOPED_WITH-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-## 📱 The Ultimate User Experience
-สัมผัสระบบฟิตเนสที่เหนือระดับ ด้วยอินเทอร์เฟซ Dark Mode ตัดด้วยสีทองสไตล์พรีเมียม ออกแบบมาเพื่อประสิทธิภาพสูงสุด
+## 📱 USER EXPERIENCE (UX)
+> **"Elevate Your Strength, Redefine Your Limits"** – สัมผัสประสบการณ์การดูแลสุขภาพที่เหนือระดับด้วยอินเทอร์เฟซ Dark Gold ที่หรูหราที่สุด
 
-### 🔐 01 | Authentication & Dashboards
-| **Login Access** | **User Dashboard** |
+### 🔓 01. ACCESS & ANALYTICS
+| **SYSTEM ACCESS** | **MEMBER DASHBOARD** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" width="100%" style="border-radius:12px; border: 2px solid #FFD700; shadow: 10px 10px 5px black;"/> | <img src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2abf0ad8da8f" width="100%" style="border-radius:12px; border: 2px solid #FFD700;"/> |
-| ✨ **ประตูสู่การเปลี่ยนแปลง** | 📊 **ศูนย์บัญชาการสุขภาพของคุณ PLAPLA** |
+| <img src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" width="100%" style="border-radius:15px; border: 2px solid #FFD700; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"/> | <img src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2bf9-a47b-bcd8-e347979c5364" width="100%" style="border-radius:15px; border: 2px solid #FFD700;"/> |
+| ✨ **Exclusive Login** | 📊 **Real-time Performance Metrics** |
 
 <br>
 
-### 🏋️ 02 | Training & Exercise Library
-| **Training Programs** | **Exercise Library** |
+### 🏋️ 02. TRAINING & CURRICULUM
+| **PREMIUM PROGRAMS** | **EXERCISE LIBRARY** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/40d7b958-6d93-4cae-a565-1dc1b31ad4fe" width="100%" style="border-radius:12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);"/> | <img src="https://github.com/user-attachments/assets/c9663ea0-d2e7-46e4-b251-33802de8f6b7" width="100%" style="border-radius:12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);"/> |
-| 📋 **แผนการฝึกที่ออกแบบมาเพื่อคุณ** | 📖 **คลังท่าออกกำลังกายระดับโปร** |
+| <img src="https://github.com/user-attachments/assets/40d7b958-6d93-4cae-a565-1dc1b31ad4fe" width="100%" style="border-radius:15px;"/> | <img src="https://github.com/user-attachments/assets/c9663ea0-d2e7-46e4-b251-33802de8f6b7" width="100%" style="border-radius:15px;"/> |
+| 📋 **Structured Training Plans** | 📖 **Comprehensive Move Library** |
 
 <br>
 
-### 📈 03 | Performance & Gamification
-| **Fitness Challenges** | **Body Statistics** |
+### 🏆 03. PROGRESS & ENGAGEMENT
+| **FITNESS CHALLENGES** | **BODY STATISTICS** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/e764fffe-411b-4d4f-a154-8e26a0d897e0" width="100%" style="border-radius:12px;"/> | <img src="https://github.com/user-attachments/assets/2e1380f6-a962-46cf-987b-7b45dbfb7754" width="100%" style="border-radius:12px;"/> |
-| 🏆 **ท้าทายขีดจำกัดและรับรางวัล** | 📈 **ติดตามทุกก้าวด้วยกราฟอัจฉริยะ** |
+| <img src="https://github.com/user-attachments/assets/e764fffe-411b-4d4f-a154-8e26a0d897e0" width="100%" style="border-radius:15px;"/> | <img src="https://github.com/user-attachments/assets/2e1380f6-a962-46cf-987b-7b45dbfb7754" width="100%" style="border-radius:15px;"/> |
+| 🥇 **Gamified Missions** | 📈 **Smart Data Visualization** |
 
 <br>
 
-### ⚙️ 04 | Profile & System Alerts
-| **My Profile** | **Notifications Center** |
+### 👤 04. PERSONALIZATION & ALERTS
+| **USER PROFILE** | **SMART NOTIFICATIONS** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b109fcfa-648d-454e-8f12-ebe981b5fbe5" width="100%" style="border-radius:12px;"/> | <img src="https://github.com/user-attachments/assets/ebafae82-4ff6-4398-a498-69b3c4b6d9b4" width="100%" style="border-radius:12px;"/> |
-| 👤 **จัดการตัวตนและเป้าหมาย** | 🔔 **ไม่พลาดทุกการเคลื่อนไหว** |
+| <img src="https://github.com/user-attachments/assets/b109fcfa-648d-454e-8f12-ebe981b5fbe5" width="100%" style="border-radius:15px;"/> | <img src="https://github.com/user-attachments/assets/ebafae82-4ff6-4398-a498-69b3c4b6d9b4" width="100%" style="border-radius:15px;"/> |
+| 🛡️ **Account Mastery** | 🔔 **Real-time Fitness Updates** |
 
+---
 
-<p align="center"><b>"ELEV8 - Elevate Your Strength, Redefine Your Limits"</b></p>
+## 🛠️ ADMINISTRATIVE HUB (CONTROL PANEL)
+> **"Power and Precision"** – ระบบหลังบ้านที่แข็งแกร่งที่สุด เพื่อการจัดการฐานข้อมูลฟิตเนสแบบครบวงจร
 
-##  Admin 
+### ⚡ 01. CORE MANAGEMENT
+| **PLATFORM OVERVIEW** | **USER ADMINISTRATION** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/aceeed4d-8f8b-4b93-b78e-25141b616c11" width="100%" style="border-radius:15px; border: 2px solid #FFD700;"/> | <img src="https://github.com/user-attachments/assets/780f6ec8-6b09-4f7a-bb37-18646636cba8" width="100%" style="border-radius:15px; border: 2px solid #FFD700;"/> |
+| 🔭 **Admin Intelligence Suite** | 👥 **Advanced Access Control** |
 
+<br>
 
+### 📑 02. CONTENT & GAMIFICATION
+| **EXERCISE DATABASE** | **PROGRAM ARCHITECT** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/dc2063fd-5525-4d0a-a737-979b69eb2c33" width="100%" style="border-radius:15px;"/> | <img src="https://github.com/user-attachments/assets/fdbe0a39-44b1-4b3d-86f9-317818c48aff" width="100%" style="border-radius:15px;"/> |
+| ⚙️ **CRUD Operations Center** | 📐 **Training Logic Builder** |
+
+<br>
+
+### 🏅 03. REWARDS & SYSTEM SETTINGS
+| **CHALLENGE CREATOR** | **REWARD SYSTEM (BADGES)** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b9f62601-66ce-431b-971e-a63ea38047ae" width="100%" style="border-radius:15px;"/> | <img src="https://github.com/user-attachments/assets/5eef9f9d-6707-4f30-8a7d-28193bc367fd" width="100%" style="border-radius:15px;"/> |
+| 🎯 **Engagement Strategy** | 💎 **Prestige System Manager** |
+
+---
+
+## 🚀 PLATFORM ARCHITECTURE & CAPABILITIES
+* 💎 **Ultra-Premium UI:** มอบความรู้สึกหรูหรา น่าใช้งาน ทันสมัยทุกตารางพิกเซล
+* 📈 **Advanced Analytics:** ติดตามและวิเคราะห์ข้อมูลร่างกายด้วย Data Visualization ที่แม่นยำ
+* 🕹️ **Complete Gamification:** ระบบ EXP, Challenges และ Badges ที่ทำให้ผู้ใช้เสพติดการออกกำลังกาย
+* ⚡ **High-Speed Management:** ระบบ Admin ที่ออกแบบมาให้จัดการข้อมูลจำนวนมากได้อย่างรวดเร็ว
+
+<p align="center">
+  <br>
+  <b>"ELEV8 - Elevate Your Strength, Redefine Your Limits"</b>
+  <br>
+  <i>Crafted with passion for the ultimate fitness elite.</i>
+</p>
 
 ---
 
