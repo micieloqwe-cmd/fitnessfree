@@ -317,12 +317,9 @@ Free for learning & portfolio use.
 
 <div align="center">
 
-<p align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 1.5em; letter-spacing: 0.1em; background: linear-gradient(180deg, #FFD700 0%, #C0C0C0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 1px 1px 2px rgba(0,0,0,0.8);">
-  "Crafted for Excellence."
-</p>
-<p align="center" style="font-family: Arial, sans-serif; font-size: 1em; color: #C0C0C0; opacity: 0.8;">
-  (สร้างสรรค์เพื่อความเหนือชั้น)
-</p>
+💪🏻"Crafted for Excellence." > (สร้างสรรค์เพื่อความเหนือชั้น)
+
+🏋🏻‍♂️"REDEDINING STRENGTH." > (นิยามใหม่ของความแข็งแกร่ง)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer" width="100%"/>
 
