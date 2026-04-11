@@ -35,7 +35,7 @@
 
 | Login | Dashboard | Programs |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Dashboard](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Dashboard) | ![Programs](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Programs) |
+| ![Login](Screenshot 2026-04-11 115356.png/login.png) | ![Dashboard](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Dashboard) | ![Programs](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Programs) |
 | **Exercise Library** | **Challenges** | **Admin Panel** |
 | ![Exercises](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Exercises) | ![Challenges](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Challenges) | ![Admin](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Admin+Panel) |
 
