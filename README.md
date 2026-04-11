@@ -44,48 +44,47 @@
 ## 📁 โครงสร้างไฟล์
 
 ```
-fitness/
-├── index.php                        ← Entry point (redirect)
-│
-├── includes/                        ← Shared components
-│   ├── config.php                   ← Database config & constants
-│   ├── db.php                       ← Database class (PDO)
-│   ├── auth.php                     ← Login / Logout / Register helpers
-│   ├── header.php                   ← Navbar + HTML head
-│   └── footer.php                   ← Footer + scripts
-│
-├── assets/                          ← Static files
-│   ├── css/
-│   │   └── main.css                 ← Global styles (Dark Luxury theme)
-│   ├── js/
-│   │   └── main.js                  ← Interactions, modals, filters
-│   └── images/                      ← Upload images here
-│
-├── pages/
-│   ├── login.php                    ← Login page
-│   ├── register.php                 ← Register page
-│   │
-│   ├── user/                        ← User-facing pages
-│   │   ├── dashboard.php            ← Main dashboard
-│   │   ├── exercises.php            ← Exercise library + search
-│   │   ├── programs.php             ← Training programs list
-│   │   ├── program_detail.php       ← Program detail + days
-│   │   ├── challenges.php           ← Fitness challenges
-│   │   ├── body_stats.php           ← Weight / body fat tracking + chart
-│   │   ├── notifications.php        ← Notification center
-│   │   └── profile.php              ← Profile + password change
-│   │
-│   └── admin/                       ← Admin-only pages
-│       ├── dashboard.php            ← Admin overview
-│       ├── users.php                ← User management
-│       ├── exercises.php            ← Exercise CRUD
-│       ├── programs.php             ← Program CRUD
-│       ├── challenges.php           ← Challenge CRUD
-│       └── badges.php               ← Badge CRUD
-│
-└── api/                             ← AJAX endpoints
-    ├── favorites.php                ← Toggle favorites (fetch)
-    └── logout.php                   ← Logout handler
+FITNESS_ELEV8/
+└── fitness/
+    ├── api/
+    │   ├── favorites.php
+    │   └── logout.php
+    │
+    ├── assets/
+    │   ├── css/
+    │   ├── images/
+    │   └── js/
+    │
+    ├── includes/
+    │   ├── auth.php
+    │   ├── config.php
+    │   ├── db.php
+    │   ├── footer.php
+    │   └── header.php
+    │
+    ├── pages/
+    │   ├── admin/
+    │   │   ├── badges.php
+    │   │   ├── challenges.php
+    │   │   ├── dashboard.php
+    │   │   ├── exercises.php
+    │   │   ├── programs.php
+    │   │   └── users.php
+    │   │
+    │   └── user/
+    │       ├── body_stats.php
+    │       ├── challenges.php
+    │       ├── dashboard.php
+    │       ├── exercises.php
+    │       ├── notifications.php
+    │       ├── profile.php
+    │       ├── program_detail.php
+    │       └── programs.php
+    │
+    ├── login.php
+    ├── register.php
+    ├── index.php
+    └── README.md
 ```
 
 ### 🔹 includes/
