@@ -39,17 +39,41 @@
 
 ---
 
-##  User 
-<img width="1912" height="968" alt="Screenshot 2026-04-11 115356" src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" />
-<img width="1918" height="970" alt="Screenshot 2026-04-11 115436" src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2abf0ad8da8f" />
-<img width="1919" height="968" alt="Screenshot 2026-04-11 115443" src="https://github.com/user-attachments/assets/40d7b958-6d93-4cae-a565-1dc1b31ad4fe" />
-<img width="1919" height="968" alt="Screenshot 2026-04-11 115449" src="https://github.com/user-attachments/assets/c9663ea0-d2e7-46e4-b251-33802de8f6b7" />
-<img width="1919" height="968" alt="Screenshot 2026-04-11 115455" src="https://github.com/user-attachments/assets/e764fffe-411b-4d4f-a154-8e26a0d897e0" />
-<img width="1919" height="970" alt="Screenshot 2026-04-11 115502" src="https://github.com/user-attachments/assets/2e1380f6-a962-46cf-987b-7b45dbfb7754" />
-<img width="1919" height="967" alt="Screenshot 2026-04-11 115511" src="https://github.com/user-attachments/assets/b109fcfa-648d-454e-8f12-ebe981b5fbe5" />
-<img width="1919" height="966" alt="Screenshot 2026-04-11 115541" src="https://github.com/user-attachments/assets/ebafae82-4ff6-4398-a498-69b3c4b6d9b4" />
+## 📱 The Ultimate User Experience
+สัมผัสระบบฟิตเนสที่เหนือระดับ ด้วยอินเทอร์เฟซ Dark Mode ตัดด้วยสีทองสไตล์พรีเมียม ออกแบบมาเพื่อประสิทธิภาพสูงสุด
+
+### 🔐 01 | Authentication & Dashboards
+| **Login Access** | **User Dashboard** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/42d02926-2bf9-4a47-bcd8-e347979c5364" width="100%" style="border-radius:12px; border: 2px solid #FFD700; shadow: 10px 10px 5px black;"/> | <img src="https://github.com/user-attachments/assets/3a15e027-a91e-458a-a90e-2abf0ad8da8f" width="100%" style="border-radius:12px; border: 2px solid #FFD700;"/> |
+| ✨ **ประตูสู่การเปลี่ยนแปลง** | 📊 **ศูนย์บัญชาการสุขภาพของคุณ PLAPLA** |
+
+<br>
+
+### 🏋️ 02 | Training & Exercise Library
+| **Training Programs** | **Exercise Library** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/40d7b958-6d93-4cae-a565-1dc1b31ad4fe" width="100%" style="border-radius:12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);"/> | <img src="https://github.com/user-attachments/assets/c9663ea0-d2e7-46e4-b251-33802de8f6b7" width="100%" style="border-radius:12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);"/> |
+| 📋 **แผนการฝึกที่ออกแบบมาเพื่อคุณ** | 📖 **คลังท่าออกกำลังกายระดับโปร** |
+
+<br>
+
+### 📈 03 | Performance & Gamification
+| **Fitness Challenges** | **Body Statistics** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/e764fffe-411b-4d4f-a154-8e26a0d897e0" width="100%" style="border-radius:12px;"/> | <img src="https://github.com/user-attachments/assets/2e1380f6-a962-46cf-987b-7b45dbfb7754" width="100%" style="border-radius:12px;"/> |
+| 🏆 **ท้าทายขีดจำกัดและรับรางวัล** | 📈 **ติดตามทุกก้าวด้วยกราฟอัจฉริยะ** |
+
+<br>
+
+### ⚙️ 04 | Profile & System Alerts
+| **My Profile** | **Notifications Center** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b109fcfa-648d-454e-8f12-ebe981b5fbe5" width="100%" style="border-radius:12px;"/> | <img src="https://github.com/user-attachments/assets/ebafae82-4ff6-4398-a498-69b3c4b6d9b4" width="100%" style="border-radius:12px;"/> |
+| 👤 **จัดการตัวตนและเป้าหมาย** | 🔔 **ไม่พลาดทุกการเคลื่อนไหว** |
 
 
+<p align="center"><b>"ELEV8 - Elevate Your Strength, Redefine Your Limits"</b></p>
 
 ##  Admin 
 
