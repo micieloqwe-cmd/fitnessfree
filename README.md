@@ -35,8 +35,6 @@
 > **Elevate Your Strength, Redefine Your Limits.** > ระบบบริหารจัดการฟิตเนสระดับพรีเมียมที่รวบรวมทุกฟังก์ชันไว้ในหนึ่งเดียว
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/INTERFACE-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
   <a href="https://fitnessfree.lovestoblog.com/pages/login.php" target="_blank">
     <img src="https://img.shields.io/badge/LIVE_DEMO-PRODUCTION-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
