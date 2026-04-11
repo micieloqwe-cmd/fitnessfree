@@ -61,15 +61,15 @@
 ### 🏆 Gamification & Tracking
 | **Fitness Challenges** | **Body Statistics** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
 | ระบบภารกิจเพื่อรับรางวัล เช่น "วิ่งเอาตาย", "Burn 500 Calories" และ "30-Min Cardio" | กราฟติดตามน้ำหนัก (Weight Trend) และการบันทึกค่า %Fat / Muscle Mass |
 
 <br>
-https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51
+
 ### ⚙️ Account Management
 | **My Profile** | **Notifications Center** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
 | หน้าจัดการข้อมูลส่วนตัว เปลี่ยนรหัสผ่าน และดู Badge ที่ได้รับ | ระบบแจ้งเตือนกิจกรรมและอัปเดตใหม่ๆ จากแพลตฟอร์ม |
 
 ---
@@ -84,6 +84,15 @@ https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51
 | สรุปยอดรวม: **1 Users, 10 Exercises, 4 Programs** พร้อมสถิติท่าที่ถูกใช้งานบ่อยที่สุด | รายชื่อสมาชิกทั้งหมด (Admin & PLAPLA) พร้อมฟีเจอร์จัดการสถานะและลบผู้ใช้ |
 
 ---
+
+## ⚡ Key Technical Features
+* **Secure Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย
+* **Interactive Dashboard:** แสดงผลสถิติแบบ Real-time ตามความคืบหน้าของผู้ใช้
+* **Body Progress Tracking:** ระบบบันทึกน้ำหนักและสัดส่วนพร้อมการแสดงผลด้วยกราฟ
+* **Challenge System:** เพิ่มความสนุกด้วยระบบภารกิจและ EXP Points
+* **Full CRUD Admin:** ผู้ดูแลระบบสามารถเพิ่ม/ลบ/แก้ไข ข้อมูลท่าออกกำลังกายและผู้ใช้งานได้โดยตรง
+
+<p align="center"><b>Built with Strength. Designed for Excellence.</b></p>
 
 ## ⚡ Key Technical Features
 * **Secure Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย
