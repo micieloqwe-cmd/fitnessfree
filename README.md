@@ -61,15 +61,15 @@
 ### 🏆 Gamification & Tracking
 | **Fitness Challenges** | **Body Statistics** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
 | ระบบภารกิจเพื่อรับรางวัล เช่น "วิ่งเอาตาย", "Burn 500 Calories" และ "30-Min Cardio" | กราฟติดตามน้ำหนัก (Weight Trend) และการบันทึกค่า %Fat / Muscle Mass |
 
 <br>
-
+https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51
 ### ⚙️ Account Management
 | **My Profile** | **Notifications Center** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
 | หน้าจัดการข้อมูลส่วนตัว เปลี่ยนรหัสผ่าน และดู Badge ที่ได้รับ | ระบบแจ้งเตือนกิจกรรมและอัปเดตใหม่ๆ จากแพลตฟอร์ม |
 
 ---
