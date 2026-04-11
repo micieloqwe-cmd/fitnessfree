@@ -31,20 +31,97 @@
 
 ## 🖼️ Preview
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-ELEV8-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-PREMIUM-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STACK-PHP%20%7C%20MYSQL%20%7C%20JS-black?style=for-the-badge"/>
+</p>
 
-| ผู้ใช้งาน |
-|:---:|:---:|:---:|
-| [Login]<img width="1912" height="968" alt="Screenshot 2026-04-11 115356" src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" />
-| [Dashboard]| <img width="1918" height="970" alt="Screenshot 2026-04-11 115436" src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" />
-[Programs]!<img width="1919" height="968" alt="Screenshot 2026-04-11 115443" src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" />
-<img width="1919" height="966" alt="Screenshot 2026-04-11 115541" src="https://github.com/user-attachments/assets/8c37a3d7-be1d-400f-b615-89f8f0f9763f" />
-<img width="1919" height="967" alt="Screenshot 2026-04-11 115511" src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" />
-<img width="1919" height="970" alt="Screenshot 2026-04-11 115502" src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" />
-<img width="1919" height="968" alt="Screenshot 2026-04-11 115455" src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" />
-<img width="1919" height="968" alt="Screenshot 2026-04-11 115449" src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" />
+---
 
-</div>
+### 👤 User Experience
+
+<table>
+<tr>
+<td align="center"><b>Login</b></td>
+<td align="center"><b>Dashboard</b></td>
+<td align="center"><b>Programs</b></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Exercises</b></td>
+<td align="center"><b>Challenges</b></td>
+<td align="center"><b>Stats</b></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/8c37a3d7-be1d-400f-b615-89f8f0f9763f" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Workout</b></td>
+<td align="center"><b>Progress</b></td>
+<td align="center"><b>Profile</b></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/></td>
+<td align="center">—</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Admin Panel
+
+<table>
+<tr>
+<td align="center"><b>Dashboard</b></td>
+<td align="center"><b>Programs</b></td>
+<td align="center"><b>Exercises</b></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/505ee69e-f492-46fb-bf31-86fcd9ff3610" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/eeaed29e-99f9-46b6-a7b1-ab19adb8c75a" width="100%"/></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Users</b></td>
+<td align="center"><b>Reports</b></td>
+<td align="center"><b>Settings</b></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/f766feea-28bc-4e66-ba3c-ee828d3fd0cc" width="100%"/></td>
+<td><img src="https://github.com/user-attachments/assets/a834a965-054a-4dd5-acc8-c71e0024890c" width="100%"/></td>
+</tr>
+</table>
+
+---
 
 ---
 
