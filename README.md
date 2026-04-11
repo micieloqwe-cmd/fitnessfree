@@ -31,11 +31,27 @@
 
 # 💎 ELEV8 - THE ULTIMATE FITNESS ECOSYSTEM
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/INTERFACE-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEVELOPED_WITH-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+<br><br>
+
+<div align="center">
+  <p style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 2em; font-weight: 800; letter-spacing: 0.15em; color: #FFD700; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3); margin-bottom: 0;">
+    "REDEDINING STRENGTH"
+  </p>
+  
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1em; font-style: italic; color: #C0C0C0; letter-spacing: 0.05em; opacity: 0.8;">
+    ( นิยามใหม่ของความแข็งแกร่ง )
+  </p>
+
+  <br>
+
+  <p style="font-size: 0.9em; color: #555;">
+    CRAFTED FOR EXCELLENCE  •  EST. 2026
+  </p>
+  
+  <p>
+    <b>READY TO ELEV8? ⭐</b>
+  </p>
+</div>
 
 ---
 
