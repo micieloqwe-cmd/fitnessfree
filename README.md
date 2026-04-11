@@ -35,7 +35,13 @@
 
 | Login | Dashboard | Programs |
 |:---:|:---:|:---:|
-| ![Login](Screenshot 2026-04-11 115356.png/login.png) | ![Dashboard](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Dashboard) | ![Programs](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Programs) |
+| ![Login]<img width="1912" height="968" alt="Screenshot 2026-04-11 115356" src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" />
+| ![Dashboard]| <img width="1918" height="970" alt="Screenshot 2026-04-11 115436" src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" />
+![Programs]!<img width="1919" height="968" alt="Screenshot 2026-04-11 115443" src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" />
+
+[Uploading Screenshot 2026-04-11 115356.png…]()
+![Uploading Screenshot 2026-04-11 115356.png…]()
+ |
 | **Exercise Library** | **Challenges** | **Admin Panel** |
 | ![Exercises](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Exercises) | ![Challenges](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Challenges) | ![Admin](https://via.placeholder.com/280x180/0a0a0b/c9a84c?text=Admin+Panel) |
 
