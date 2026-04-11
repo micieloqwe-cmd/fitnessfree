@@ -29,27 +29,39 @@
 
 ---
 
-# 💎 ELEV8 - THE ULTIMATE FITNESS ECOSYSTEM
-
 <br><br>
 
 <div align="center">
-  <p style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 2em; font-weight: 800; letter-spacing: 0.15em; color: #FFD700; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3); margin-bottom: 0;">
+  <p style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 3.5em; font-weight: 900; letter-spacing: -0.05em; margin-bottom: 0;">
+    <span style="background: linear-gradient(180deg, #FFD700 0%, #FFFFFF 50%, #FFD700 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.5));">
+      💎 ELEV8
+    </span>
+  </p>
+  
+  <p style="font-family: 'Segoe UI', sans-serif; font-size: 1.2em; font-weight: 300; letter-spacing: 0.5em; color: #C0C0C0; text-transform: uppercase; margin-top: -10px; opacity: 0.8;">
+    THE ULTIMATE FITNESS ECOSYSTEM
+  </p>
+
+  <br><br>
+
+  <p style="font-family: 'Georgia', serif; font-size: 2.2em; font-weight: 800; letter-spacing: 0.15em; color: #FFD700; text-shadow: 0 0 15px rgba(255, 215, 0, 0.6), 0 0 30px rgba(255, 215, 0, 0.4); text-transform: uppercase; margin-bottom: 0;">
     "REDEDINING STRENGTH"
   </p>
   
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.1em; font-style: italic; color: #C0C0C0; letter-spacing: 0.05em; opacity: 0.8;">
+  <p style="font-family: 'Krub', sans-serif; font-size: 1.3em; font-style: italic; font-weight: 200; color: #FFFFFF; letter-spacing: 0.1em; opacity: 0.7;">
     ( นิยามใหม่ของความแข็งแกร่ง )
   </p>
 
+  <br><br>
+  <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 215, 0, 0.75), rgba(0, 0, 0, 0)); width: 60%;">
   <br>
 
-  <p style="font-size: 0.9em; color: #555;">
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 1em; color: #555; letter-spacing: 0.1em;">
     CRAFTED FOR EXCELLENCE  •  EST. 2026
   </p>
   
-  <p>
-    <b>READY TO ELEV8? ⭐</b>
+  <p style="font-family: 'Segoe UI', sans-serif; font-size: 1.5em; font-weight: 700; color: #FFF; text-shadow: 0 0 10px #FFF;">
+    READY TO <span style="color: #FFD700; font-weight: 900; text-shadow: 0 0 15px #FFD700;">ELEV8</span>? ⭐
   </p>
 </div>
 
