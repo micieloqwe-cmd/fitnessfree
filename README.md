@@ -39,38 +39,40 @@
 
 ---
 
-## 📱 User Interface Experience
-อินเทอร์เฟซสำหรับสมาชิก ออกแบบมาเพื่อสร้างแรงบันดาลใจในการออกกำลังกายด้วยโทนสี Dark & Gold
+## 📱 User Interface Experience (ประสบการณ์ผู้ใช้งาน)
+ดีไซน์หรูหราสไตล์ Modern Dark Gold พร้อมฟังก์ชันที่ครบถ้วนสำหรับสมาชิก
 
-### 🔐 Authentication & Onboarding
-| **Login Access** | **Personalized Dashboard** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/> |
-| ระบบ Login ที่เรียบหรู พร้อมสโลแกน "Your Premium Fitness Journey" | หน้าต้อนรับคุณ **PLAPLA** พร้อมสถิติ Quick Overview: Calories, Workouts, Streak และ EXP |
-
-<br>
-
-### 🏋️ Training & Content Library
-| **Training Programs** | **Exercise Library** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/> | <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> |
-| แผนการฝึกแบบมีโครงสร้าง แบ่งระดับตามความยาก (Beginner, Admin, Fat Burn Starter) | คลังท่าออกกำลังกายพร้อมระบบ Filter แยกตามระดับความยากและกลุ่มกล้ามเนื้อ |
+### 🔐 ระบบเข้าสู่ระบบและหน้าหลัก (Authentication & Dashboard)
+| **Login Access** | **User Dashboard** | **Notifications** |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
+| หน้าจอ Login สุดพรีเมียม | หน้าสรุปสถิติของคุณ **PLAPLA** | ศูนย์แจ้งเตือนกิจกรรม |
 
 <br>
 
-### 🏆 Gamification & Tracking
-| **Fitness Challenges** | **Body Statistics** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
-| ระบบภารกิจเพื่อรับรางวัล เช่น "วิ่งเอาตาย", "Burn 500 Calories" และ "30-Min Cardio" | กราฟติดตามน้ำหนัก (Weight Trend) และการบันทึกค่า %Fat / Muscle Mass |
+### 🏋️ โปรแกรมและการฝึกซ้อม (Training & Programs)
+| **Training Programs** | **Exercise Library** | **Exercise Details** |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/> | <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> |
+| เลือกแผนการฝึกซ้อม | คลังท่าออกกำลังกาย | รายละเอียดและวิธีฝึก |
 
 <br>
 
-### ⚙️ Account Management
-| **My Profile** | **Notifications Center** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
-| หน้าจัดการข้อมูลส่วนตัว เปลี่ยนรหัสผ่าน และดู Badge ที่ได้รับ | ระบบแจ้งเตือนกิจกรรมและอัปเดตใหม่ๆ จากแพลตฟอร์ม |
+### 📈 สถิติและการติดตามผล (Stats & Progress)
+| **Fitness Challenges** | **Weight Progress** | **User Profile** |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/71bb89de-4a87-4676-b533-a353d83ed2d8" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> | <img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/> |
+| ภารกิจท้าทายความสามารถ | กราฟติดตามน้ำหนักตัว | จัดการข้อมูลส่วนตัว |
+
+---
+
+## 🛠️ Admin Control Panel (ระบบหลังบ้าน)
+ส่วนการจัดการสำหรับผู้ดูแลระบบ เพื่อควบคุมเนื้อหาและสมาชิกทั้งหมด
+
+| **Admin Dashboard** |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/> |
+| **สถิติรวมของแพลตฟอร์ม:** สรุปจำนวนสมาชิก ท่าออกกำลังกาย และโปรแกรมการฝึกทั้งหมด |
 
 ---
 
