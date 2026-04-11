@@ -29,98 +29,70 @@
 
 ---
 
-## 🖼️ Preview
+# 💎 ELEV8 - Premium Fitness Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-ELEV8-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI-PREMIUM-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STACK-PHP%20%7C%20MYSQL%20%7C%20JS-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/UI_DESIGN-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TECH_STACK-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-### 👤 User Experience
+## 📱 User Interface Experience
+อินเทอร์เฟซสำหรับสมาชิก ออกแบบมาเพื่อสร้างแรงบันดาลใจในการออกกำลังกายด้วยโทนสี Dark & Gold
 
-<table>
-<tr>
-<td align="center"><b>Login</b></td>
-<td align="center"><b>Dashboard</b></td>
-<td align="center"><b>Programs</b></td>
-</tr>
-
-<tr>
-<td><img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/></td>
-</tr>
-</table>
+### 🔐 Authentication & Onboarding
+| **Login Access** | **Personalized Dashboard** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/71c015fd-ea75-44ff-b676-82717b11365b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5c80d8b5-4b82-4a96-8669-d0d8cb078158" width="100%"/> |
+| ระบบ Login ที่เรียบหรู พร้อมสโลแกน "Your Premium Fitness Journey" | หน้าต้อนรับคุณ **PLAPLA** พร้อมสถิติ Quick Overview: Calories, Workouts, Streak และ EXP |
 
 <br>
 
-<table>
-<tr>
-<td align="center"><b>Exercises</b></td>
-<td align="center"><b>Challenges</b></td>
-<td align="center"><b>Stats</b></td>
-</tr>
-
-<tr>
-<td><img src="<img width="1919" height="968" alt="Screenshot 2026-04-11 115449" src="https://github.com/user-attachments/assets/2b0bb8dd-88eb-4aee-a09c-720a0541751c" />
-" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/></td>
-</tr>
-</table>
+### 🏋️ Training & Content Library
+| **Training Programs** | **Exercise Library** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/43e46690-db31-4f2d-b47f-a39749cd70b2" width="100%"/> | <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> |
+| แผนการฝึกแบบมีโครงสร้าง แบ่งระดับตามความยาก (Beginner, Admin, Fat Burn Starter) | คลังท่าออกกำลังกายพร้อมระบบ Filter แยกตามระดับความยากและกลุ่มกล้ามเนื้อ |
 
 <br>
 
-<table>
-<tr>
-<td align="center"><b>Workout</b></td>
-<td align="center"><b>Progress</b></td>
-<td align="center"><b>Profile</b></td>
-</tr>
+### 🏆 Gamification & Tracking
+| **Fitness Challenges** | **Body Statistics** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/afe9d34c-2f3e-4808-a299-1110def3cb51" width="100%"/> | <img src="https://github.com/user-attachments/assets/9bfdd6f7-a332-4efa-9143-4779c14c9afc" width="100%"/> |
+| ระบบภารกิจเพื่อรับรางวัล เช่น "วิ่งเอาตาย", "Burn 500 Calories" และ "30-Min Cardio" | กราฟติดตามน้ำหนัก (Weight Trend) และการบันทึกค่า %Fat / Muscle Mass |
 
-<tr>
-<td><img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/></td>
-<td align="center">—</td>
-</tr>
-</table>
+<br>
+
+### ⚙️ Account Management
+| **My Profile** | **Notifications Center** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/21709cbe-e033-4af6-8763-be47dc825919" width="100%"/> | <img src="https://github.com/user-attachments/assets/2ef90143-152c-4236-8e53-6a1b5664a583" width="100%"/> |
+| หน้าจัดการข้อมูลส่วนตัว เปลี่ยนรหัสผ่าน และดู Badge ที่ได้รับ | ระบบแจ้งเตือนกิจกรรมและอัปเดตใหม่ๆ จากแพลตฟอร์ม |
 
 ---
 
-### 🛠️ Admin Panel
+## 🛠️ Advanced Admin Control Panel
+ระบบหลังบ้านสำหรับผู้ดูแลเพื่อควบคุมเนื้อหาและจัดการสมาชิกทั้งหมดในที่เดียว
 
-<table>
-<tr>
-<td align="center"><b>Dashboard</b></td>
-<td align="center"><b>Programs</b></td>
-<td align="center"><b>Exercises</b></td>
-</tr>
+### 📊 Platform Overview
+| **Admin Dashboard** | **User Management** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/> | <img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/> |
+| สรุปยอดรวม: **1 Users, 10 Exercises, 4 Programs** พร้อมสถิติท่าที่ถูกใช้งานบ่อยที่สุด | รายชื่อสมาชิกทั้งหมด (Admin & PLAPLA) พร้อมฟีเจอร์จัดการสถานะและลบผู้ใช้ |
 
-<tr>
-<td><img src="https://github.com/user-attachments/assets/419419d8-0678-49af-8a0e-564724403cde" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/505ee69e-f492-46fb-bf31-86fcd9ff3610" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/eeaed29e-99f9-46b6-a7b1-ab19adb8c75a" width="100%"/></td>
-</tr>
-</table>
+---
 
-<br>
+## ⚡ Key Technical Features
+* **Secure Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบที่ปลอดภัย
+* **Interactive Dashboard:** แสดงผลสถิติแบบ Real-time ตามความคืบหน้าของผู้ใช้
+* **Body Progress Tracking:** ระบบบันทึกน้ำหนักและสัดส่วนพร้อมการแสดงผลด้วยกราฟ
+* **Challenge System:** เพิ่มความสนุกด้วยระบบภารกิจและ EXP Points
+* **Full CRUD Admin:** ผู้ดูแลระบบสามารถเพิ่ม/ลบ/แก้ไข ข้อมูลท่าออกกำลังกายและผู้ใช้งานได้โดยตรง
 
-<table>
-<tr>
-<td align="center"><b>Users</b></td>
-<td align="center"><b>Reports</b></td>
-<td align="center"><b>Settings</b></td>
-</tr>
-
-<tr>
-<td><img src="https://github.com/user-attachments/assets/c9da3849-c382-410a-94cf-cbe046ab0bd7" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/f766feea-28bc-4e66-ba3c-ee828d3fd0cc" width="100%"/></td>
-<td><img src="https://github.com/user-attachments/assets/a834a965-054a-4dd5-acc8-c71e0024890c" width="100%"/></td>
-</tr>
-</table>
+<p align="center"><b>Built with Strength. Designed for Excellence.</b></p>
 
 ---
 
