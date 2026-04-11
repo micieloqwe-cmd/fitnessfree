@@ -31,14 +31,16 @@
 
 <br><br>
 
-# 💎 ELEV8 - Premium Fitness Management Ecosystem
+# 💎 ELEV8 - THE ULTIMATE FITNESS ECOSYSTEM
+> **Elevate Your Strength, Redefine Your Limits.** > ระบบบริหารจัดการฟิตเนสระดับพรีเมียมที่รวบรวมทุกฟังก์ชันไว้ในหนึ่งเดียว
 
 <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-ELEV8-black?style=for-the-badge&logo=target&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/INTERFACE-PREMIUM_DARK-gold?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TECH_STACK-PHP_|_MySQL_|_JS-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+  <a href="https://fitnessfree.lovestoblog.com/pages/login.php" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-PRODUCTION-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
-
 
 ## 📱 USER EXPERIENCE (UX)
 > **"Elevate Your Strength, Redefine Your Limits"** – สัมผัสประสบการณ์ที่เหนือระดับด้วยอินเทอร์เฟซ Dark Gold ที่หรูหราที่สุด
